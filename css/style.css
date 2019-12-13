@@ -79,7 +79,7 @@ header nav .nav-icon ul .active{
         width: 100%;
         text-align: center;
         padding:20px 0;
-        background: #000;
+        background: #333;
     }  
     header nav .nav-icon ul.showing{
         height: 25em;
